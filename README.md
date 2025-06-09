@@ -1,3 +1,3 @@
 # social-network
 
-SAme new text
+Some new text
